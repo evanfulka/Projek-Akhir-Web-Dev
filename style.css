@@ -1,0 +1,32 @@
+.row {
+    justify-content: center;
+}
+
+.card col-sm-6{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.carousel {
+    width: 100% !important;
+    max-height: calc(300vh - 5px);
+    overflow: hidden;
+
+}
+
+.subjudul {
+    justify-content: center;
+    text-align: center;
+}
+
+#text-subjudul{
+    font-size:x-large;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
